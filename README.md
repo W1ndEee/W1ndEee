@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @W1ndEee
+- 🎓I currently study Information Security at The Hong Kong Polytechnic University
 - 👀 I’m interested in learning LUA
 - 🌱 I’m currently learning C++, Java, JavaScript.
 
